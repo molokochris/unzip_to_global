@@ -2,6 +2,11 @@
 
 This script takes a ZIP file of fonts and unzips them to `/usr/share/fonts` inside a directory with the same name as the ZIP file.
 
+## Screenshots
+
+![Screenshot of the script in action](https://github.com/molokochris/unzip_to_global/blob/main/image-1.png?raw=true)
+![Screenshot of the extracted font](https://github.com/molokochris/unzip_to_global/blob/main/image-2.png?raw=true)
+
 ## Prerequisites
 
 - You need to have `unzip` installed on your system.
